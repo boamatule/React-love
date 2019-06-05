@@ -16,8 +16,10 @@
     "axios": "^0.19.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-netlify-form": "^2.1.5",
     "react-router-dom": "^5.0.1",
-    "react-undraw-illustrations": "^2.0.3"
+    "react-undraw-illustrations": "^2.0.3",
+    "semantic-ui-react": "^0.87.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
