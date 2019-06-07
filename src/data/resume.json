@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "",
+        "time": "August 2012 - June 2014",
+        "description": "E-business Managment"
+    },
+    {
+        "id": 2,
+        "name": "UI Design",
+        "description": "Designing user interfaces is fun. I want to learn more about that..."
+    },
+    {
+        "id": 3,
+        "name": "Mobile UX",
+        "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
+    },
+
+    {
+        "id": 4,
+        "name": "",
+        "time": "",
+        "image": ".",
+        "link": "",
+        "description": ""
+
+    }
+
+]

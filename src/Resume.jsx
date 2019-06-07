@@ -1,9 +1,26 @@
-const Resume = () => {
-  return (
-    <div>
-      <h1 className="content-text">Resume</h1>
-      <p className="content-text">Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</p>
-    </div>)
-}
+import React, { Component } from "react"
+import axios from "axios"
 
+class Resume extends Component {
+  constructor() {
+    super();
+    this.state = {
+      resume:[]
+    };
+  }
+
+  componentDidMount() {
+    axios.get('./src/data/resume.json')
+        .then(response => {
+          this.setState({
+            resume: response.data
+          })
+        })
+  }
+
+  render() {
+   // let resume = resume
+    const resume = this.state.resume
+  }
+}
 export default Resume 

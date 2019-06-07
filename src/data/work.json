@@ -1,0 +1,57 @@
+[
+
+  {
+    "id": 4,
+    "name": "Kolonial.no AS",
+    "time": "Juni 2007 - Mar 2019",
+    "image": ".",
+    "link": "https://kolonial.no/",
+    "description": "Warehouse Operator"
+
+},
+
+{
+    "id": 5,
+    "name": "",
+    "time": "Apr 2014 - Oct 2016",
+    "image": "",
+    "link": "",
+    "description": ""
+
+},
+
+{
+    "id": 6,
+    "name": "",
+    "time": "",
+    "link": "",
+    "description": ""
+
+},
+
+{
+    "id": 7,
+    "name": "EDM",
+    "time": "April 2007 - Sep 2008",
+    "link": "https://www.edm.co.mz/",
+    "description": "Commercial Assistant - Customer Service"
+
+},
+{
+    "id": 8,
+    "name": "",
+    "time": "",
+    "link": "",
+    "image": "",
+    "description": ""
+},
+
+{
+    "id": 9,
+    "name": "Powell River Visitor Center",
+    "time": "Sep 2006 - Dec 2006",
+    "link": "https://powellriver.info/",
+    "description": "Advisor - Customer Service"
+}
+
+]
