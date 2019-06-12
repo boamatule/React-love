@@ -13,7 +13,7 @@ import "./css/tailwind.css"
 
 const App = () => {
     return (
-        <div className="page-wrapper">
+      <div className="page-wrapper">
             <div className="page-content">
                 <Header />
                     <div className="content-wrapper">
@@ -29,13 +29,13 @@ const App = () => {
                     </div>
                 <Footer />
             </div >
-        </div >
-)
+    </div >
+  )
 };
 
 ReactDOM.render((
-    <BrowserRouter> 
-        <App />
-    </BrowserRouter>
+  <BrowserRouter> 
+    <App />
+  </BrowserRouter>
 
 ), document.getElementById("app"));
