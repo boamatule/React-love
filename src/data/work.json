@@ -1,5 +1,4 @@
 [
-
     {
         "id": 1,
         "name": "Kolonial.no AS",
@@ -12,42 +11,32 @@
 
     {
         "id": 2,
-        "name": "",
-        "time": "Apr 2014 - Oct 2016",
-        "image": "",
-        "link": "",
-        "description": ""
+        "name": "Okamia Fashion AB",
+        "time": "Nov 2012 - Nov 2014",
+        "description": "E-business Manager & Co-founder"
 
     },
 
     {
         "id": 3,
-        "name": "",
-        "time": "",
-        "link": "",
-        "description": ""
-
-    },
-
-    {
-        "id": 4,
         "name": "EDM",
         "time": "April 2007 - Sep 2008",
         "link": "https://www.edm.co.mz/",
         "description": "Commercial Assistant - Customer Service"
 
     },
+
     {
-        "id": 5,
-        "name": "",
-        "time": "",
-        "link": "",
-        "image": "",
+        "id": 4,
+        "name": "Otjiwarong Municipality ",
+        "time": "Sep 2006 - Dec 2006",
+        "link": "https://powellriver.info/",
         "description": ""
     },
 
+
     {
-        "id": 6,
+        "id": 5,
         "name": "Powell River Visitor Center",
         "time": "Sep 2006 - Dec 2006",
         "link": "https://powellriver.info/",

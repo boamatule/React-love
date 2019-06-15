@@ -1,29 +1,30 @@
 [
     {
         "id": 1,
-        "name": "",
-        "time": "August 2012 - June 2014",
-        "description": "E-business Managment"
+        "name": "Craft Academy",
+        "place": "Gothenburg, Sweden",
+        "time": "April 2019 - June 2019",
+        "image": "",
+        "link": "",
+        "description": "Fullstack Web Developer"
     },
     {
         "id": 2,
-        "name": "UI Design",
-        "description": "Designing user interfaces is fun. I want to learn more about that..."
+        "name": "Handelsakademin",
+        "place": "Gothenburg, Sweden",
+        "time": "Aug 2012 - Aug 2014",
+        "image": "",
+        "link": "",
+        "description": "E-business Managment"
     },
     {
         "id": 3,
-        "name": "Mobile UX",
-        "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
-    },
-
-    {
-        "id": 4,
-        "name": "",
-        "time": "",
-        "image": ".",
+        "name": "Escola Francisco Manyanga",
+        "place": "Maputo, Mozambique",
+        "time": " Feb 2004 - Nov 2005",
+        "image": "",
         "link": "",
-        "description": ""
-
+        "description":"" 
     }
 
 ]

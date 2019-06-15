@@ -1,0 +1,47 @@
+[
+
+  {
+      "id": 1,
+      "name": "Craft Academy",
+      "time": "Juni 2007 - Mar 2019",
+      "image": ".",
+      "link": "https://kolonial.no/",
+      "description": "Warehouse Operator"
+
+  },
+
+  {
+      "id": 2,
+      "name": "Okamia Fashion AB",
+      "time": "Nov 2012 - Nov 2014",
+      "description": "E-business Manager & Co-founder"
+
+  },
+
+  {
+      "id": 3,
+      "name": "EDM",
+      "time": "April 2007 - Sep 2008",
+      "link": "https://www.edm.co.mz/",
+      "description": "Commercial Assistant - Customer Service"
+
+  },
+
+  {
+      "id": 4,
+      "name": "Otjiwarong Municipality ",
+      "time": "Sep 2006 - Dec 2006",
+      "link": "https://powellriver.info/",
+      "description": ""
+  },
+
+
+  {
+      "id": 5,
+      "name": "Powell River Visitor Center",
+      "time": "Sep 2006 - Dec 2006",
+      "link": "https://powellriver.info/",
+      "description": "Advisor - Customer Service"
+  }
+
+]
