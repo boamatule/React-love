@@ -26,18 +26,6 @@ const App = () => {
                 </div>
                 <Footer />
             </div >
-<<<<<<< HEAD
-        </div >
-    )
-
-};
-
-ReactDOM.render((
-    <BrowserRouter>
-        <App />
-    </BrowserRouter>
-), document.getElementById('app'));
-=======
     </div >
   )
 };
@@ -48,4 +36,3 @@ ReactDOM.render((
   </BrowserRouter>
 
 ), document.getElementById("app"));
->>>>>>> 3c58d0335a14287ba204db756b611ac577f7ce9a
