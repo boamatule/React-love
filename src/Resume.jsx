@@ -17,10 +17,10 @@ class Resume extends Component {
           })
         })
   }
-
   render() {
-   // let resume = resume
+    let resume = resume
     const resume = this.state.resume
   }
 }
+
 export default Resume 

@@ -9,11 +9,15 @@ const About = () => {
             <div className="w-full lg:w-1/4 md:w-1/2">
                 <UndrawDesignerLife />
             </div>
+            {/* <div className="illustration-wrapper">
+            <img src="/src/data/me.png" height="50" width="50" alt="React Logo"></img>
+    
+            </div> */}
+
             <div className="w-full lg:w-3/4 md:w-1/2">
                 <h1 className="content-text">About Me</h1>
                 <p className="content-text">Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</p>
             </div>
-
         </div>
     </div>
   )

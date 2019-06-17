@@ -10,12 +10,12 @@
     @apply min-h-screen;
 }
 .page-content {
-    @apply flex flex-col w-full fixed pin-l pin-y;
+    @apply p-10 flex-1 overflow-y-scroll;
 }
 
 /** Header **/
 .header {
-    @apply flex items-center justify-between flex-wrap bg-blue-darkest p-6;
+    @apply flex items-center justify-between flex-wrap bg-teal-500 p-10;
 }
 
 .header-title {
@@ -24,20 +24,21 @@
 
 /** Footer **/
 
-.footer-wrapper {
-    @apply border-t px-8 py-4;
-}
+/* .footer-wrapper {
+    @apply border-t py-1 bg-teal-dark;
+} */
 
 .footer-content {
-    @apply flex justify-center text-grey;
+    /* @apply flex justify-around text-grey items-center; */
 }
+
 
 /** Content section **/
 
 .content-wrapper {
-    @apply px-4 pt-4 flex-1 overflow-y-scroll;
+    /* @apply px-4 pt-4 flex-1 overflow-y-scroll; */
 }
 
 .content-text {
-    @apply text-grey-dark;
+    /* @apply text-green-darkest; */
 }

@@ -21,11 +21,10 @@ const Contact = () => {
             {!loading && !success &&
               <>
                 <div>
-                    <input className="input-field-sm" type='text' placeholder="Your name" name='name' required />
-
-                    <input placeholder="jane@example.com" required />
-                    <Form>  <textarea placeholder="Tell us more" required /> </Form>
-                    <button class="ui button">Get in touch!</button>
+                  <input className="input-field-sm" type='text' placeholder="Your name" name='name' required />
+                  <input className="input-field-sm" type='email' placeholder="Your email address" name='email' required />
+                  <textarea className="input-field" placeholder="Your message" name='message' required />
+                  <button className="button">Send</button>
                 </div>
               </>
           }
