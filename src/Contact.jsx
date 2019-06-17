@@ -19,7 +19,8 @@ const Contact = () => {
             <>
               <div className="contact-form-wrapper">
                   <input className="input-field-sm" type='text' placeholder="Your name" name='name' required />
-                  <input className="input-field-sm" type='email' placeholder="Your email address" name='email' required />
+
+                  <input class="bg-white focus:outline-0 focus:shadow-outline border border-gray-300 rounded-lg py-2 px-4 block w-full appearance-none leading-normal" type="email" placeholder="jane@example.com" required />
                   <textarea className="input-field" placeholder="Your message" name='message' required />
                   <button className="button">Get in touch!</button>
               </div>
