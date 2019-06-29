@@ -1,13 +1,16 @@
 import React from "react"
+import "./css/tailwind.css";
 
 const Footer = () => {
-        return (
-                <div className="footer-wrapper">
-                        <div className="footer-content">
-                                Made with React
-                        </div>
-                </div>
-        )
+	return (
+		<div className="border-t border-smoke px-8 py-4">
+			<div className="flex justify-center text-grey">
+				Made with React
+			</div>
+		</div>
+	)
 }
 
-export default Footer 
+export default Footer
+
+	
